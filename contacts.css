@@ -1,0 +1,31 @@
+body{
+	border: 3px solid black;
+}
+td {
+	border: 1px solid black;
+	padding: 10px 10px;
+	background-color: gray;
+}
+select {
+	padding: 10px 20px;
+	border:  2px solid black;
+}
+select:focus {
+	background-color: lightblue ;
+}
+th {
+	border: 1px solid black;
+	padding: 10px 10px;
+	background-color: lightblue;
+}
+hr {
+	border:	2px solid black;
+}
+button {
+	margin: 3px;
+	border: 5px solid green;
+	color: Black;
+	background-color: lightgreen;
+	padding: 20px 30px;
+	font-size: 120%;
+}
